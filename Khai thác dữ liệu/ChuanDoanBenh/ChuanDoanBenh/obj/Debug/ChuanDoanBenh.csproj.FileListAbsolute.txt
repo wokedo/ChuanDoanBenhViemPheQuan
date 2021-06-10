@@ -1,0 +1,58 @@
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe.config
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.Form1.resources
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.Properties.Resources.resources
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csproj.GenerateResource.Cache
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.pdb
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.exe
+E:\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.pdb
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe.config
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.exe
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.pdb
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.pdb
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csprojResolveAssemblyReference.cache
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.TrangChu.resources
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.Properties.Resources.resources
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csproj.GenerateResource.Cache
+E:\BaiTap\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.DuLieu.resources
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe.config
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.exe
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.pdb
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.pdb
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csprojResolveAssemblyReference.cache
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.DuLieu.resources
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.TrangChu.resources
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.Properties.Resources.resources
+E:\BaiTap\khai thac du lieu ver2\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csproj.GenerateResource.Cache
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe.config
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.exe
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.pdb
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.pdb
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csprojResolveAssemblyReference.cache
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.DuLieu.resources
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.TrangChu.resources
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.Properties.Resources.resources
+E:\Khai thác dữ liệu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe.config
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.exe
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.pdb
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.pdb
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.DuLieu.resources
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.TrangChu.resources
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.Properties.Resources.resources
+C:\Users\Admin\Downloads\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csproj.GenerateResource.Cache
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe.config
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.exe
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.pdb
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.exe
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\bin\Debug\ChuanDoanBenh.pdb
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csprojResolveAssemblyReference.cache
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.DuLieu.resources
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.TrangChu.resources
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.Properties.Resources.resources
+E:\BaiTap\DoAnKhaiThacDuLieu\Khai thác dữ liệu\ChuanDoanBenh\ChuanDoanBenh\obj\Debug\ChuanDoanBenh.csproj.GenerateResource.Cache
